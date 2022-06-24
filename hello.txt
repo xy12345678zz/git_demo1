@@ -18,4 +18,4 @@ hello git!
 hello git!
 hello git!
 hello git! master modify2
-hello git! branch1 modify2
+hello git! branch1 modify2 ssh
